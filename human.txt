@@ -1,0 +1,10 @@
+/* AUTHOR */
+	Alejandro Cámara López
+	Contact: winger.87 [at] gmail.com
+	Twitter: @thewinger
+	From:  Elche, Alicante, Spain
+
+/* SITE */
+
+	Language: SPA
+	Doctype: XHTML 1.0 Strict
